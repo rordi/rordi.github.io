@@ -1,2 +1,10 @@
-name: rordi profile page
+title: rordi profile page
+email: drordorf@gmail.com
+twitter_username: rordorfd
+github_username: rordi
 markdown: kramdown
+theme: minima
+sass:
+  style: compressed
+plugins:
+  - jekyll-feed

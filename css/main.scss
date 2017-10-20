@@ -1,0 +1,113 @@
+---
+---
+
+
+// ===== VARIABLES
+
+
+$tr-mode:   all;
+$tr-speed:  0.5s;
+$tr-ease:   ease-in-out;
+
+
+// ===== MIXINS
+
+
+@mixin transition($transition...) {
+    -moz-transition:    $transition;
+    -o-transition:      $transition;
+    -webkit-transition: $transition;
+    transition:         $transition;
+}
+
+@mixin transition-property($property...) {
+    -moz-transition-property:    $property;
+    -o-transition-property:      $property;
+    -webkit-transition-property: $property;
+    transition-property:         $property;
+}
+
+@mixin transition-duration($duration...) {
+    -moz-transition-property:    $duration;
+    -o-transition-property:      $duration;
+    -webkit-transition-property: $duration;
+    transition-property:         $duration;
+}
+
+@mixin transition-timing-function($timing...) {
+    -moz-transition-timing-function:    $timing;
+    -o-transition-timing-function:      $timing;
+    -webkit-transition-timing-function: $timing;
+    transition-timing-function:         $timing;
+}
+
+@mixin transition-delay($delay...) {
+    -moz-transition-delay:    $delay;
+    -o-transition-delay:      $delay;
+    -webkit-transition-delay: $delay;
+    transition-delay:         $delay;
+}
+
+
+// ===== STYLING
+
+
+@import url('https://fonts.googleapis.com/css?family=Nunito|Passion+One');
+
+body {
+    margin: 60px auto;
+    width: 60%;
+    max-width: 500px;
+    font-family: 'Nunito', sans-serif;
+    background-color: ivory;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.4em;
+    color: #333;
+}
+
+a {
+    @include transition($tr-mode $tr-speed $tr-ease);
+     text-decoration: none;
+     color: #999;
+
+     &:hover {
+         @include transition($tr-mode $tr-speed $tr-ease);
+         text-decoration: underline;
+         color: dodgerblue;
+     }
+}
+
+h1 {
+    font-family: 'Passion One', sans-serif;
+    font-size: 2em;
+    font-weight: 400;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .9em;
+}
+
+.typcn {
+    font-size: 38x !important;
+}
+
+nav,
+footer{
+
+    ul {
+        padding: 0px;
+        list-style: none;
+        font-weight: bold;
+
+        li {
+            display: inline;
+            margin-right: 20px;
+        }
+    }
+
+}
+
