@@ -2,6 +2,8 @@
 layout: default
 title: Dietrich Rordorf
 ---
+![Dietrich](/assets/dr.jpg)
+
 # Hi, my name is Dietrich
 
 But people typically call me *Didi*.

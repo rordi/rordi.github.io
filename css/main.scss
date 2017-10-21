@@ -55,11 +55,14 @@ $tr-ease:   ease-in-out;
 @import url('https://fonts.googleapis.com/css?family=Nunito|Fjalla+One');
 
 body {
-    margin: 60px auto;
-    width: 60%;
-    max-width: 500px;
     font-family: 'Nunito', sans-serif;
     background-color: ivory;
+
+    .container {
+        margin: 50px auto;
+        width: 60%;
+        max-width: 700px;
+    }
 }
 
 p {
@@ -80,6 +83,12 @@ a {
      }
 }
 
+img {
+    border-radius: 50%;
+    border: 2px solid yellowgreen;
+    padding: 2px;
+}
+
 h1 {
     font-family: 'Fjalla One', sans-serif;
     font-size: 1.6em;
@@ -89,10 +98,7 @@ h1 {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .9em;
-}
-
-.typcn {
-    font-size: 38x !important;
+    text-align: center;
 }
 
 nav,
