@@ -2,10 +2,11 @@
 layout: default
 title: Dietrich Rordorf
 ---
-![Dietrich](/assets/dr.jpg)
+<p class="lead">
+    <img src="/assets/dr.jpg" alt="Dietrich">
+</p>
 
 # Hi, my name is Dietrich
-
 But people typically call me *Didi*.
 
 I am a full-stack developer and IT / web project manager. Currently in a contracting role with [IWF AG](http://iwf.ch)

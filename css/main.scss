@@ -56,7 +56,8 @@ $tr-ease:   ease-in-out;
 
 body {
     font-family: 'Nunito', sans-serif;
-    background-color: ivory;
+    background-color: #F1F7EF;
+    color: #63565B;
 
     .container {
         margin: 50px auto;
@@ -68,24 +69,37 @@ body {
 p {
     font-size: 1.1em;
     line-height: 1.4em;
-    color: #333;
+    color: #63565B;
+
+    &.lead {
+        text-align: center;
+    }
 }
 
 a {
     @include transition($tr-mode $tr-speed $tr-ease);
-     text-decoration: none;
-     color: #999;
+    text-decoration: none;
+    border-bottom: 1px dashed transparent;
+    color: #759CC6;
 
      &:hover {
          @include transition($tr-mode $tr-speed $tr-ease);
-         text-decoration: underline;
-         color: dodgerblue;
+         border-bottom: 1px dashed #2269B5;
+         color: #2269B5;
      }
+
+    &:visited {
+        color: #759CC6;
+
+        &:hover {
+            color: #2269B5;
+        }
+    }
 }
 
 img {
     border-radius: 50%;
-    border: 2px solid yellowgreen;
+    border: 2px solid #63565B;
     padding: 2px;
 }
 
@@ -96,9 +110,32 @@ h1 {
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #C7DBD5;
     font-size: .9em;
     text-align: center;
+    margin: 3em 0;
+    padding: 1em;
+
+    a {
+        @include transition($tr-mode $tr-speed $tr-ease);
+        text-decoration: none;
+        border-width: 0;
+        color: #9BAFAC;
+
+        &:hover {
+            @include transition($tr-mode $tr-speed $tr-ease);
+            border-width: 0;
+            color: #2269B5;
+        }
+
+        &:visited {
+            color: #9BAFAC;
+
+            &:hover {
+                color: #2269B5;
+            }
+        }
+    }
 }
 
 nav,
