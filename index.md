@@ -6,7 +6,7 @@ title: Dietrich Rordorf
     <img src="/assets/dr.jpg" alt="Dietrich">
 </p>
 
-# Hi, my name is Dietrich
+# Hi there, my name is Dietrich 👋
 
 But people typically call me *Didi*.
 

@@ -4,11 +4,14 @@
 
 // ===== VARIABLES
 
-
 $tr-mode:   all;
-$tr-speed:  0.5s;
-$tr-ease:   ease-in-out;
+$tr-speed:  200ms;
+$tr-ease:   cubic-bezier(0.15, 1.05, 0.9, 1);
 $radius:    5px;
+
+$col-background:    #F4F3ED;
+$col-primary:       #2269B5;
+
 
 
 // ===== MIXINS
@@ -50,6 +53,19 @@ $radius:    5px;
 }
 
 
+// ===== RESET
+
+html,
+body{
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
 // ===== STYLING
 
 
@@ -57,7 +73,7 @@ $radius:    5px;
 
 body {
     font-family: 'Nunito', sans-serif;
-    background-color: #F1F7EF;
+    background-color: $col-background;
     color: #63565B;
 
     .container {
@@ -80,20 +96,20 @@ p {
 a {
     @include transition($tr-mode $tr-speed $tr-ease);
     text-decoration: none;
-    border-bottom: 1px dashed transparent;
+    border-bottom: 2px solid transparent;
     color: #759CC6;
 
      &:hover {
          @include transition($tr-mode $tr-speed $tr-ease);
-         border-bottom: 1px dashed #2269B5;
-         color: #2269B5;
+         border-bottom: 2px solid $col-primary;
+         color: $col-primary;
      }
 
     &:visited {
         color: #759CC6;
 
         &:hover {
-            color: #2269B5;
+            color: $col-primary;
         }
     }
 }
@@ -138,21 +154,61 @@ footer {
         @include transition($tr-mode $tr-speed $tr-ease);
         text-decoration: none;
         border-width: 0;
-        color: #9BAFAC;
 
         &:hover {
             @include transition($tr-mode $tr-speed $tr-ease);
             border-width: 0;
-            color: #2269B5;
+            color: #FFFFFF;
+            background-size: 100% 100%; // hover fill effect
+        }
+    }
+
+    .button {
+        color: #FFFFFF;
+
+        /* preps for hover fill effect */
+        background-image: linear-gradient($col-primary, $col-primary);
+        background-repeat: no-repeat;
+        background-position: 50% 100%;
+        background-size: 100% 0;
+
+        &:visited {
+            color: #FFFFFF;
+            &:hover {
+                color: #FFFFFF;
+            }
+        }
+    }
+
+    .social {
+        border-radius: 50% 50%;
+        width: 48px;
+        height: 48px;
+        padding: 10px 0 0 2px;
+        float: left;
+        margin:0 1em 1em 0;
+        display: block;
+
+        /* preps for hover fill effect */
+        background-image: radial-gradient($col-primary, $col-background);
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: 0 0;
+        background-clip: padding-box;
+
+        &:hover {
+            background-image: radial-gradient($col-primary 0%, $col-primary 66%, $col-background 68%);
         }
 
         &:visited {
-            color: #9BAFAC;
-
             &:hover {
-                color: #2269B5;
+                color: #FFFFFF;
             }
         }
+    }
+
+    .social-wrapper {
+        margin: 0 auto;
     }
 }
 
@@ -165,7 +221,7 @@ footer{
         font-weight: bold;
 
         li {
-            display: inline;
+            display: inline-block;
             margin: 0 0.5em;
         }
     }
