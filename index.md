@@ -6,7 +6,7 @@ title: Dietrich Rordorf
     <img src="/assets/dr.jpg" alt="Dietrich">
 </p>
 
-# Hi there, my name is Dietrich 👋
+# Hi there, my name is Dietrich Rordorf  👋
 
 But people typically call me *Didi*.
 
@@ -24,5 +24,6 @@ gained invaluable practical experience as the Managing Editor of several researc
 I oversaw its establishment as one of the fastest growing open access, scientific publishers in the
 world.
 
-You can check out some of my recent work on [GitHub](https://github.com/rordi/) or visit [Teacherflow](https://www.teacherflow.ch),
-a platform that we recently released to connect the Swiss Yoga and Pilates communities.
+You can check out some of my work on [GitHub](https://github.com/rordi/) or visit [Teacherflow](https://www.teacherflow.ch),
+a platform that we released in 2017 to connect the Swiss Yoga and Pilates communities. I was [certified as Professional Scrum
+Developer PSD I](https://www.scrum.org/user/298081) in December 2017.
