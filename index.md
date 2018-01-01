@@ -3,7 +3,7 @@ layout: default
 title: Dietrich Rordorf
 ---
 <p class="lead">
-    <img src="/assets/dr.jpg" alt="Dietrich">
+    <img src="/assets/dr.jpg" alt="Dietrich Rordorf">
 </p>
 
 # Hi, my name is Dietrich Rordorf  👋
@@ -24,3 +24,5 @@ world.
 You can check out some of my work on [GitHub](https://github.com/rordi/) or visit [Teacherflow](https://www.teacherflow.ch),
 a platform that we released in 2017 to connect the Swiss Yoga and Pilates communities. I [certified](https://www.scrum.org/user/298081)
 as Professional Scrum Product Owner (PSPO I) and Professional Scrum Developer (PSD I) in December 2017.
+
+[Have a look at my reading list](./reading-list.html). If you have any book tips, let me know.
