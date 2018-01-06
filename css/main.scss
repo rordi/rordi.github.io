@@ -81,6 +81,15 @@ body {
         width: 60%;
         max-width: 700px;
     }
+
+    @media (max-width: 600px) {
+        .container {
+            margin: 0 0;
+            padding: 25px 25px;
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+    }
 }
 
 p {

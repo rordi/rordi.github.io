@@ -3,11 +3,11 @@ layout: default
 title: Reading list
 ---
 
-# Reading list 📚🤓
+# [Didi's](./) Reading List 📚🤓
 
-This is [my](./) reading list - a list of books which I recently read, I am currently reading, or plan to read shortly.
+This is my reading list - a list of books which I recently read, I am currently reading, or plan to read shortly.
 I am most interested in technical and business books. I recently purchased a Kindle Paperwhite and use [Calibre](https://calibre-ebook.com/)
-to convert epubs or pdfs to Kindle's internal mobi format, when needed.
+to convert epubs or pdfs to Kindle's internal mobi format, when needed. *If you have any book tips, let me know.*
 
 ## Business Analysis
 
