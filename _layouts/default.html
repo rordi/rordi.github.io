@@ -39,5 +39,10 @@
 					</ul>
 				</footer>
 			</div><!-- /.container -->
+			<script>
+                var jobId = 'Inserat Test';
+                var img = '<img src="https://spitalzollikerberg.ch/analytics/piwik.php?idsite=9&rec=1&action_name=Bewerbung/%id%&urlref=%ref%" style="border:0" alt="" />';
+                document.write(img.replace("%id%", encodeURIComponent(jobId)).replace("%ref%", encodeURIComponent(window.location.href)));
+			</script>
 		</body>
 	</html>
