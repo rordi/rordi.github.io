@@ -27,7 +27,7 @@ Springer-Verlag, 2011
 *Charles Petzold*<br>
 Microsoft Press, October 1999
 
-[Clean Code: A Handbook of Agile Software Craftsmanship](http://ptgmedia.pearsoncmg.com/images/9780132350884/samplepages/9780132350884.pdf)<br>
+[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html)<br>
 *Robert C. Martin*<br>
 Prentice Hall, July 2008
 
