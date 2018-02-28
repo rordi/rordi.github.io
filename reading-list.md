@@ -9,6 +9,12 @@ This is my reading list - a list of books which I recently read, I am currently 
 I am most interested in technical and business books. I recently purchased a Kindle Paperwhite and use [Calibre](https://calibre-ebook.com/)
 to convert epubs or pdfs to Kindle's internal mobi format, when needed. *If you have any book tips, let me know.*
 
+## Business
+
+[Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.penguinrandomhouse.com/books/545936/hacking-growth-by-sean-ellis-founder-of-growthhackerscom-and-morgan-brown/9780451497215/)<br>
+*Morgan Brown, Sean Ellis*<br>
+Crown Publishing, April 2017
+
 ## Business Analysis
 
 [Requirements Engineering](http://www.springer.com/gp/book/9781447158189)<br>
@@ -16,6 +22,18 @@ Jeremy Dick, Elizabeth Hull, Ken Jackson<br>
 Springer-Verlag, 2011
 
 ## Development
+
+[Code: The Hidden Language of Computer Hardware and Software](https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780735611313)<br>
+*Charles Petzold*<br>
+Microsoft Press, October 1999
+
+[Clean Code: A Handbook of Agile Software Craftsmanship]()<br>
+*Robert C. Martin*<br>
+Prentice Hall, July 2008
+
+[Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)<br>
+*Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides*<br>
+Pearson Education. October 1994
 
 [Data Structures and Algorithms with JavaScript: Bringing classic computing approaches to the Web](http://shop.oreilly.com/product/0636920029557.do)<br>
 *Michael McMillan*<br>
@@ -25,9 +43,6 @@ O'Reilly Media, March 2014
 *Andy Hunt, Dave Thomas*<br>
 The Pragmatic Bookshelf, October 1999
 
-[Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)<br>
-*Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides*<br>
-Pearson Education. October 1994
 
 ## DevOps
 
