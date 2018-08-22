@@ -3,7 +3,7 @@ layout: default
 title: Dietrich Rordorf
 ---
 <p class="lead">
-    <img src="/assets/dr.jpg" alt="Dietrich Rordorf">
+    <img src="/assets/dr.jpg" alt="Dietrich Rordorf" width="260">
 </p>
 
 # Hi, my name is Dietrich Rordorf  👋
