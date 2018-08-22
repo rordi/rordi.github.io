@@ -109,3 +109,7 @@ Harper Collins Publishers, October 2017
 [Getting Things Done](https://gettingthingsdone.com/)<br>
 *David Allen*<br>
 Penguin, 2001
+
+[Sapiens: A Brief History of Humankind](https://www.harpercollins.com/9780062316097/sapiens/)<br>
+*Yuval Noah Harari*<br>
+HarperCollins, 2014
