@@ -97,6 +97,7 @@ O'Reilly Media, April 2017
 [Printer's Error](https://www.harpercollins.com/9780062412317/printers-error)<br>
 *Rebecca Romney*<br>
 Harper Collins Publishers, February 2017
+⚫⚫⚫⚫⚫
 
 [Mastering Bitcoin, 2nd Edition: Programming the Open Blockchain](http://shop.oreilly.com/product/0636920049524.do)<br>
 *Andreas Antonopoulos*<br>
@@ -109,7 +110,9 @@ Harper Collins Publishers, October 2017
 [Getting Things Done](https://gettingthingsdone.com/)<br>
 *David Allen*<br>
 Penguin, 2001
+⚫⚫⚫⚫⚪
 
 [Sapiens: A Brief History of Humankind](https://www.harpercollins.com/9780062316097/sapiens/)<br>
 *Yuval Noah Harari*<br>
 HarperCollins, 2014
+⚫⚫⚫⚫⚪
