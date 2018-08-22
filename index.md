@@ -10,9 +10,7 @@ title: Dietrich Rordorf
 
 But people typically call me *Didi*.
 
-I am devoted to build beautiful things digital. I am joining [Ditoy](https://www.ditoy.com/), a web / digital agency in
-Zurich, as CEO from January 2018 on. I am also a co-founder and the Managing Director of [EDIQO](https://www.ediqo.com),
-an online English editing service for researchers.
+I am devoted to build beautiful things digital. I am the CEO at [ditoy](https://www.ditoy.com/), the creative digital agency in Zurich, and a co-founder and the Managing Director of [EDIQO](https://www.ediqo.com), an online English editing service for researchers.
 
 Previously, I was in a contracting role with IWF AG near Basel, Switzerland from July 2016 to December 2017. Before that,
 I worked for the Molecular Diversity Preservation International association (MDPI), which I joined in August 2005. In 2010,
