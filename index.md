@@ -23,4 +23,5 @@ You can check out some of my work on [GitHub](https://github.com/rordi/) or visi
 a platform that we released in 2017 to connect the Swiss Yoga and Pilates communities. I hold a bachelor's degree in business & economics from the University of Basel, and [certified](https://www.scrum.org/user/298081)
 as Professional Scrum Product Owner (PSPO I) and Professional Scrum Developer (PSD I) in December 2017.
 
-[Have a look at my reading list](./reading-list.html). If you have any book tips, let me know.
+
+I recently started my [blog on nutrition and health](https://www.meinflow.com/) (in German). You may also have a look at my [reading list](./reading-list.html). If you have any book tips, let me know.
