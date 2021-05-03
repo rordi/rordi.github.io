@@ -10,7 +10,7 @@ title: Dietrich Rordorf
 
 But people typically call me *Didi*.
 
-I am an IT and publishing professional with over 15 years of professional experience and currently serving as an IT Project Manager at [MDPI AG](https://www.mdpi.com/), which I re-joined in August 2020. Before I served as the CEO of [ditoy](https://www.ditoy.com/), a boutique digital agency in Zurich, servicing clients in a variety of industries from 2018 to 2020. During 2016-2017 I was in a contracting role for [IWF AG](https://www.iwf.ch/) as a software engineer.
+I am a senior IT and publishing professional with over 15 years of professional experience and currently serving as an IT Project Manager at [MDPI AG](https://www.mdpi.com/), which I re-joined in August 2020. Before I served as the CEO of [ditoy](https://www.ditoy.com/), a boutique digital agency in Zurich, servicing clients in a variety of industries from 2018 to 2020. During 2016-2017 I was in a contracting role for [IWF AG](https://www.iwf.ch/) as a software engineer.
 
 I originally joined the Molecular Diversity Preservation International association (MDPI) in August 2005 as Dr. Shu-Kun Lin’s assistant and, in 2010, co-founded MDPI AG, the publishing branch of the association. I subsequently served in the CEO and CTO roles of MDPI AG until my resignation in 2015. I also gained invaluable first-hand experience as an Assistant and Managing Editor of several journals including the *International Journal of Molecular Sciences* in 2006, and *Marine Drugs* and *Entropy* in 2007-2008. In 2008 I remotely trained the first editor that was hired by MDPI in China. 
 
