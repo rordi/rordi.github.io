@@ -6,11 +6,8 @@ title: Dietrich Rordorf
     <img src="/assets/dr.jpg" alt="Dietrich Rordorf" width="260">
 </p>
 
-# Hi there, my name is Dietrich Rordorf  👋
+# Dietrich Rordorf
 
-But people typically call me Didi. I am working on publishing technology and frontends, more specifically within scholarly publishing.
+## Biography
 
-
-## Short Biography
-
-Dietrich is a seasoned publishing professional. He joined MDPI in 2005 and held various roles, including Assistant and Managing Editor, CTO and CEO. He co-founded [MDPI AG](https://www.mdpi.com/), the scholarly publishing branch of MDPI, alongside Dr. Shu-Kun Lin in May 2010. He later worked as Software Engineer at [IWF AG](https://www.iwf.ch/) (contracting role, 2016-2017) and CEO of [ditoy LLC](https://www.ditoy.com/) (digital agency, 2018-2020) working on implementing software solutions for clients in various industries. He returned to MDPI AG in 2020 as a project manager, currently working on implementing web-based publishing solutions and building and leading the frontend team to introduce a new frontend technology stack. He graduated in business & economics from the University of Basel in 2011 and is currently enrolled in a Master's program in business information systems at FHNW (since 02/2022). His research interest include AI-based solutions in publishing. In his spare time he organizes and participates in hackathons.
+Dietrich is a seasoned information systems and publishing professional with a strong technical background. He joined MDPI in 2005 and has held various roles, including Assistant and Managing Editor, CTO, and CEO. In May 2010, he co-founded MDPI AG, the scholarly publishing branch of MDPI, alongside Dr. Shu-Kun Lin. After a brief time outside MDPI, Dietrich returned in 2020 as a Project Manager, where he played a key role in implementing web-based publishing solutions and leading the frontend team in adopting a new technology stack. In April 2024, he transitioned to the role of Head of Technical Development at MDPI, working across Product and IT to ensure high-quality technical solutions that meet product requirements. He graduated with a Master of Science in Business Information Systems in 2024, with a research interest in AI-based solutions in publishing. In his spare time, he organizes and participates in hackathons.
